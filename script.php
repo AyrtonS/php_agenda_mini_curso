@@ -46,8 +46,9 @@
 	
 	
 
-/*
+/*	
 
+	$i = 0
 	while($i < 4){
 		echo $vetor[$i]."<br>";
 		$i++;
